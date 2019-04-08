@@ -1,0 +1,15 @@
+database schema should be created
+usecase diagram
+class diagram
+------
+
+multilayered architecture:
+
+ui layer
+controler
+bussinerss layer
+dao layer
+
+
+
+
